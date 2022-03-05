@@ -1,5 +1,5 @@
 # Drums
-A simple webpage to play drum sounds
-7 different drum sounds can be played
-You can click on the buttons using sounds or
-You can use the keys on keyboard
+A simple webpage to play drum sounds.
+Seven different drum sounds can be played.
+You can click on the buttons using sounds or,
+you can use the keys on keyboard
